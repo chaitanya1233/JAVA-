@@ -1,0 +1,7 @@
+class DemoString
+{
+	public static void main(String[]args)
+	{
+		String s  = new String("Chaitanya");
+	}
+}
